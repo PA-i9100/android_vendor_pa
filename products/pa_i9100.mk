@@ -33,6 +33,9 @@ $(call inherit-product, device/samsung/i9100/full_i9100.mk)
 # Product Package Extras - Repos can be added manually or via addprojects.py
 -include vendor/pa/packages/i9100.mk
 
+# CM Package Extras
+-include vendor/pa/packages/cm.mk
+
 # Override AOSP build properties
 PRODUCT_NAME := pa_i9100
 PRODUCT_BRAND := samsung
@@ -44,5 +47,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-I9100 TARGET_DEVICE=GT-I9100 BUI
 GET_VENDOR_PROPS := $(shell vendor/pa/tools/getvendorprops.py $(PRODUCT_NAME))
 GET_PROJECT_RMS := $(shell vendor/pa/tools/removeprojects.py $(PRODUCT_NAME))
 GET_PROJECT_ADDS := $(shell vendor/pa/tools/addprojects.py $(PRODUCT_NAME))
+GET_CM_PROJECT_ADDS := $(shell vendor/pa/tools/addprojects.py cm.adds)
 
 endif
