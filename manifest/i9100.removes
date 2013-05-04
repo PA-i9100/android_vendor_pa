@@ -1,5 +1,9 @@
 [
     {
+        "name":     "platform/bootable/recovery",
+        "path":     "bootable/recovery"
+    },
+    {
         "name":     "platform/frameworks/av",
         "path":     "frameworks/av"
     },
