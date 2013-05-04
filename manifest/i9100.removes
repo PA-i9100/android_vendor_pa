@@ -28,6 +28,10 @@
         "path":     "external/yaffs2"
     },
     {
+        "name":     "platform/system/vold",
+        "path":     "system/vold"
+    },
+    {
         "name":     "ParanoidAndroid/android_frameworks_base",
         "path":     "frameworks/base"
     },

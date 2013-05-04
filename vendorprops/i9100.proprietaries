@@ -11,7 +11,7 @@
         "account":      "fldc",
         "repository":   "android_device_samsung_galaxys2-common",
         "target_path":  "device/samsung/galaxys2-common",
-        "revision":     "jellybean-pa"
+        "revision":     "PA-i9100"
     },
     {
         "remote":       "github",
