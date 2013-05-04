@@ -20,6 +20,10 @@
         "path":     "hardware/libhardware_legacy"
     },
     {
+        "name":     "platform/hardware/ril",
+        "path":     "hardware/ril"
+    },
+    {
         "name":     "device/common",
         "path":     "device/common"
     },
