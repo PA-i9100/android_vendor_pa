@@ -71,13 +71,6 @@
     },
     {
         "remote":       "github",
-        "account":      "ParanoidAndroid",
-        "repository":   "android_frameworks_base",
-        "target_path":  "frameworks/base",
-        "revision":     "jellybean-legacy"
-    },
-    {
-        "remote":       "github",
         "account":      "fldc",
         "repository":   "android_system_vold",
         "target_path":  "system/vold",

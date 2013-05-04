@@ -36,10 +36,6 @@
         "path":     "system/vold"
     },
     {
-        "name":     "ParanoidAndroid/android_frameworks_base",
-        "path":     "frameworks/base"
-    },
-    {
         "name":     "ParanoidAndroid/android_vendor_pa",
         "path":     "vendor/pa"
     }
