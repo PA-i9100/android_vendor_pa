@@ -36,6 +36,10 @@
         "path":     "external/yaffs2"
     },
     {
+        "name":     "platform/external/zlib",
+        "path":     "external/zlib"
+    },
+    {
         "name":     "platform/system/vold",
         "path":     "system/vold"
     },
