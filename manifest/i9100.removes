@@ -22,5 +22,17 @@
     {
         "name":     "ParanoidAndroid/android_frameworks_opt_telephony",
         "path":     "frameworks/opt/telephony"
+    },
+    {
+        "name":     "platform/external/yaffs2",
+        "path":     "external/yaffs2"
+    },
+    {
+        "name":     "ParanoidAndroid/android_frameworks_base",
+        "path":     "frameworks/base"
+    },
+    {
+        "name":     "ParanoidAndroid/android_vendor_pa",
+        "path":     "vendor/pa"
     }
 ]

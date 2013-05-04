@@ -54,5 +54,26 @@
         "repository":   "android_device_generic_common",
         "target_path":  "device/generic/common",
         "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_external_yaffs2",
+        "target_path":  "external/yaffs2",
+        "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "ParanoidAndroid",
+        "repository":   "android_frameworks_base",
+        "target_path":  "frameworks/base",
+        "revision":     "jellybean-legacy"
+    },
+    {
+        "remote":       "github",
+        "account":      "fldc",
+        "repository":   "android_vendor_pa",
+        "target_path":  "vendor/pa",
+        "revision":     "jellybean-pa"
     }
 ]
