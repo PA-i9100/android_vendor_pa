@@ -90,11 +90,4 @@
         "target_path":  "system/vold",
         "revision":     "PA-i9100"
     },
-    {
-        "remote":       "github",
-        "account":      "fldc",
-        "repository":   "android_vendor_pa",
-        "target_path":  "vendor/pa",
-        "revision":     "PA-i9100"
-    }
 ]
