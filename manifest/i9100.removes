@@ -12,6 +12,10 @@
         "path":     "frameworks/native"
     },
     {
+        "name":     "ParanoidAndroid/android_packages_apps_Launcher2",
+        "path":     "packages/apps/Launcher2"
+    },
+    {
         "name":     "platform/hardware/libhardware",
         "path":     "hardware/libhardware"
     },
