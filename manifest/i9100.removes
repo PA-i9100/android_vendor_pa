@@ -8,12 +8,24 @@
         "path":     "frameworks/av"
     },
     {
+        "name":     "ParanoidAndroid/android_frameworks_base",
+        "path":     "frameworks/base"
+    },
+    {
+        "name":     "ParanoidAndroid/android_build",
+        "path":     "build"
+    },
+    {
         "name":     "ParanoidAndroid/android_frameworks_native",
         "path":     "frameworks/native"
     },
     {
         "name":     "ParanoidAndroid/android_packages_apps_Launcher2",
         "path":     "packages/apps/Launcher2"
+    },
+    {
+        "name":     "platform/packages/apps/LegacyCamera",
+        "path":     "packages/apps/LegacyCamera"
     },
     {
         "name":     "platform/hardware/libhardware",
@@ -24,8 +36,16 @@
         "path":     "hardware/libhardware_legacy"
     },
     {
+        "name":     "ParanoidAndroid/android_packages_apps_Mms",
+        "path":     "packages/apps/Mms"
+    },
+    {
         "name":     "platform/hardware/ril",
         "path":     "hardware/ril"
+    },
+    {
+        "name":     "ParanoidAndroid/android_packages_apps_Settings",
+        "path":     "packages/apps/Settings"
     },
     {
         "name":     "device/common",
