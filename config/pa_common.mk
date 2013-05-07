@@ -112,7 +112,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # goo.im properties
 ifneq ($(DEVELOPER_VERSION),true)
     PRODUCT_PROPERTY_OVERRIDES += \
-      ro.goo.developerid=paranoidandroid \
-      ro.goo.rom=paranoidandroid \
+      ro.goo.developerid=fldc \
+      ro.goo.rom=pa-i9100 \
       ro.goo.version=$(shell date +%s)
 endif
