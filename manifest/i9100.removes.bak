@@ -4,20 +4,8 @@
         "path":     "bootable/recovery"
     },
     {
-        "name":     "platform/frameworks/av",
-        "path":     "frameworks/av"
-    },
-    {
-        "name":     "ParanoidAndroid/android_frameworks_base",
-        "path":     "frameworks/base"
-    },
-    {
         "name":     "ParanoidAndroid/android_frameworks_native",
         "path":     "frameworks/native"
-    },
-    {
-        "name":     "platform/packages/apps/LegacyCamera",
-        "path":     "packages/apps/LegacyCamera"
     },
     {
         "name":     "platform/hardware/libhardware",
@@ -28,10 +16,6 @@
         "path":     "hardware/libhardware_legacy"
     },
     {
-        "name":     "platform/hardware/ril",
-        "path":     "hardware/ril"
-    },
-    {
         "name":     "device/common",
         "path":     "device/common"
     },
@@ -39,4 +23,8 @@
         "name":     "ParanoidAndroid/android_frameworks_opt_telephony",
         "path":     "frameworks/opt/telephony"
     },
+    }
+        "name":     "platform/system/vold",
+        "path":     "system/vold"
+    }
 ]
