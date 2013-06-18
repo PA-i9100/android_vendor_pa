@@ -44,6 +44,10 @@ endif
 PRODUCT_PACKAGES += \
     OTAPlatform
 
+# ParanoidAndroid common packages
+PRODUCT_PACKAGES += \
+    ParanoidWallpapers
+
 ifneq ($(PARANOID_BOOTANIMATION_NAME),)
     PRODUCT_COPY_FILES += \
         vendor/pa/prebuilt/common/bootanimation/$(PARANOID_BOOTANIMATION_NAME).zip:system/media/bootanimation.zip
